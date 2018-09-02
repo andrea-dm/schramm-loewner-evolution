@@ -25,8 +25,20 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+
 __name__    = "Schramm-Loewner-Evolution-Library";
-__version__ = "1.0.1";
+__version__ = "0.0.1";
 __author__  = "Andrea del Monaco; Sebastian Schleissinger";
 
 import complex_analysis
+from .multiple import *
+
+
+'''
+--------------------
+References:
+--------------------
+Kennedy, T., "Numerical Computations for the Schramm-Loewner Evolution", J Stat Phys (2009) 137: 839. doi:10.1007/s10955-009-9866-2
+del Monaco, A. and Schleissinger, S., "Multiple SLE and the complex Burgers equation". Math. Nachr. (2016), 289: 2007–2018. doi: 10.1002/mana.201500230
+--------------------
+'''
