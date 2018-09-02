@@ -22,10 +22,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="examples\" />
+    <Folder Include="examples\resources\" />
     <Folder Include="schramm_loewner_evolution\" />
     <Folder Include="sdeint\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="examples\README.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="examples\resources\multiple_chordal_sle.png" />
     <Content Include="LICENSE.txt" />
     <Content Include="README.md">
       <SubType>Code</SubType>
