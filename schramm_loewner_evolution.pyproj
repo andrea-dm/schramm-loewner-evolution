@@ -30,6 +30,7 @@
     <Content Include="examples\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="examples\resources\burgers.png" />
     <Content Include="examples\resources\multiple_chordal_sle.png" />
     <Content Include="LICENSE.txt" />
     <Content Include="README.md">
@@ -37,6 +38,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="examples\burgers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="examples\example4.py" />
     <Compile Include="examples\multiple_chordal_sle.py" />
     <Compile Include="schramm_loewner_evolution\complex_analysis.py" />
     <Compile Include="schramm_loewner_evolution\multiple.py" />
