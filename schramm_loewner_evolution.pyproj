@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a745dcd5-8b2a-472d-ac5e-5b10f9436b5c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>schramm_loewner_evolution.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="schramm_loewner_evolution.py" />
+    <Folder Include="schramm_loewner_evolution\" />
+    <Folder Include="sdeint\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="schramm_loewner_evolution\complex_analysis.py" />
+    <Compile Include="schramm_loewner_evolution\multiple_sle.py" />
+    <Compile Include="schramm_loewner_evolution\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="sdeint\integrate.py" />
+    <Compile Include="sdeint\wiener.py" />
+    <Compile Include="sdeint\_broadcast.py" />
+    <Compile Include="sdeint\__init__.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
