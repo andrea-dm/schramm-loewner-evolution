@@ -11,7 +11,7 @@ In order to confirm their guesses, they had the insight of implenting their resu
 They ended up with writing two papers (the second one in cooperation with Ikkei Hotta):
 
 > - A.del Monaco and S.Schleiﬂinger, *"Multiple SLE and the complex Burgers equation"*. Math. Nachr. (2016), 289: 2007ñ2018. [doi:10.1002/mana.201500230](doi:10.1002/mana.201500230)
-> - An.del Monaco, I.Hotta, and S.Schleiﬂinger, *"Tightness Results for Infinite-Slit Limits of the Chordal Loewner Equation"*. S. Comput. Methods Funct. Theory (2018) 18: 9. [doi:10.1007/s40315-017-0205-3](doi:10.1007/s40315-017-0205-3)
+> - A.del Monaco, I.Hotta, and S.Schleiﬂinger, *"Tightness Results for Infinite-Slit Limits of the Chordal Loewner Equation"*. S. Comput. Methods Funct. Theory (2018) 18: 9. [doi:10.1007/s40315-017-0205-3](doi:10.1007/s40315-017-0205-3)
 
 It is worth mentioning that the numerical methods for deterministic evolution are based on:
 
