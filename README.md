@@ -15,7 +15,7 @@ They ended up with writing two papers (the second one in cooperation with Ikkei 
 
 It is worth mentioning that the numerical methods for deterministic evolution are based on:
 
-> - T.Kennedy, *"Numerical Computations for the Schramm-Loewner Evolution"*, J.Stat.Phys (2009) 137: 839. [doi:10.1007/s10955-009-9866-2](doi:10.1007/s10955-009-9866-2)
+> - T.Kennedy, *"Numerical Computations for the Schramm-Loewner Evolution"*, J. Stat. Phys (2009) 137: 839. [doi:10.1007/s10955-009-9866-2](doi:10.1007/s10955-009-9866-2)
 
 
 <br />
