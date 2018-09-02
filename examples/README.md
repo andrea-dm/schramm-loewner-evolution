@@ -4,7 +4,7 @@
 
 <br />
 
-## About
+## Examples
 In this folder you may find several applications of the methods exposed by this package. 
 
 
