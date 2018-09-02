@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
-# Yahoo Finance Python Interface
-# https://github.com/andrea-dm/yahoo-finance-pynterface
+# Schramm-Loewner Evolution Library
+# https://github.com/andrea-dm/schramm-loewner-evolution
 #
 # Copyright (c) 2016-2021 Andrea del Monaco and Sebastian Schleissinger
 #
