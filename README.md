@@ -1,12 +1,12 @@
 # Schramm-Loewner Evolution Library
 
-**schramm_loewner_evolution** is a package that brings in Python the wonderful theory of Single and Multiple Schramm-Loewner Evlution!
+**schramm_loewner_evolution** is a package that brings in Python the wonderful theory of Single and Multiple Schramm-Loewner Evolution!
 
 <br />
 
 ## About
 While staying at the Department of Mathematics of the University of Rome "Tor Vergata", Andrea del Monaco and Sebastian Schleissinger were working on behavior of multiple SLEs as the number of slits approches infinity.<br />
-In order to confirm their guesses, they had he insight of implenting their results in a Python package. This allowed them to simulate such an evolution in many different contexts, and it validated empirically their ideas.<br />
+In order to confirm their guesses, they had the insight of implenting their results in a Python package. This allowed them to simulate such an evolution in many different contexts, and it validated empirically their ideas.<br />
 
 They ended up with writing two papers (the second one in cooperation with Ikkei Hotta):
 
@@ -26,7 +26,7 @@ It is worth mentioning that the numerical methods for deterministic evolution ar
 and it depends on `numpy >= 1.15.1` and `numexpr >= 2.6.6`.<br />
 
 Furthermore, the following packages are required:
-- `[sdeint](https://github.com/mattja/sdeint) >= 0.2.2-dev`
+- `sdeint >= 0.2.2-dev`
 
 Any help to check compatibility with `Python == 2.x` is welcome and encouraged as well as very much appreciated!
 
