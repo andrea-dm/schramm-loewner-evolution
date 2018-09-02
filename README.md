@@ -5,13 +5,13 @@
 <br />
 
 ## About
-While staying at the Department of Mathematics of the University of Rome "Tor Vergata", Andrea del Monaco and Sebastian Schleiﬂinger were working on behavior of multiple SLEs as the number of slits approches infinity.<br />
+While staying at the Department of Mathematics of the University of Rome "Tor Vergata", Andrea del Monaco and Sebastian Schlei√üinger were working on behavior of multiple SLEs as the number of slits approches infinity.<br />
 In order to confirm their guesses, they had the insight of implenting their results in a Python package. This allowed them to simulate such an evolution in many different contexts, and it validated empirically their ideas.<br />
 
 They ended up with writing two papers (the second one in cooperation with Ikkei Hotta):
 
-> - A.del Monaco and S.Schleiﬂinger, *"Multiple SLE and the complex Burgers equation"*. Math. Nachr. (2016), 289: 2007ñ2018. [doi:10.1002/mana.201500230](doi:10.1002/mana.201500230)
-> - A.del Monaco, I.Hotta, and S.Schleiﬂinger, *"Tightness Results for Infinite-Slit Limits of the Chordal Loewner Equation"*. S. Comput. Methods Funct. Theory (2018) 18: 9. [doi:10.1007/s40315-017-0205-3](doi:10.1007/s40315-017-0205-3)
+> - A.del Monaco and S.Schlei√üinger, *"Multiple SLE and the complex Burgers equation"*. Math. Nachr. (2016), 289: 2007‚Äì2018. [doi:10.1002/mana.201500230](doi:10.1002/mana.201500230)
+> - A.del Monaco, I.Hotta, and S.Schlei√üinger, *"Tightness Results for Infinite-Slit Limits of the Chordal Loewner Equation"*. S. Comput. Methods Funct. Theory (2018) 18: 9. [doi:10.1007/s40315-017-0205-3](doi:10.1007/s40315-017-0205-3)
 
 It is worth mentioning that the numerical methods for deterministic evolution are based on:
 
@@ -23,7 +23,9 @@ It is worth mentioning that the numerical methods for deterministic evolution ar
 
 ## Requirements
 **schramm_loewner_evolution** has only been tested to work on `Python >= 3.6`<br />
-and it depends on `numpy >= 1.15.1` and `numexpr >= 2.6.6`.<br />
+and it depends on
+- `numpy >= 1.15.1`
+- `numexpr >= 2.6.6`
 
 Furthermore, the following packages are required:
 - `sdeint >= 0.2.2-dev`
