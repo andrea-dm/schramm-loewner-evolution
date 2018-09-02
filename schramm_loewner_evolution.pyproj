@@ -32,7 +32,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="examples\example.py" />
+    <Compile Include="examples\multiple_chordal_sle.py" />
     <Compile Include="schramm_loewner_evolution\complex_analysis.py" />
     <Compile Include="schramm_loewner_evolution\multiple.py" />
     <Compile Include="schramm_loewner_evolution\__init__.py">
