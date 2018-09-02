@@ -263,6 +263,4 @@ __pycache__/
 *.pyc
 
 sdeint/
-.gitignore
-.gitattributes
 /examples/example4.py
