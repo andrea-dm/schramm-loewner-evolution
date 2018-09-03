@@ -5,7 +5,7 @@
 <br />
 
 ## About
-While staying at the Department of Mathematics of the University of Rome "Tor Vergata", Andrea del Monaco and Sebastian Schleißinger were working on behavior of multiple SLEs as the number of slits approches infinity.<br />
+While staying at the Department of Mathematics of the University of Rome "Tor Vergata", Andrea del Monaco and Sebastian Schleißinger were working on the behavior of multiple SLEs as the number of slits approches infinity.<br />
 In order to confirm their guesses, they had the insight of implenting their results in a Python package. This allowed them to simulate such an evolution in many different contexts, and it validated empirically their ideas.<br />
 
 They ended up with writing two papers (the second one in cooperation with Ikkei Hotta):
