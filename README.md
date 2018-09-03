@@ -13,7 +13,7 @@ They ended up with writing two papers (the second one in cooperation with Ikkei 
 > - A.del Monaco and S.Schleißinger, *"Multiple SLE and the complex Burgers equation"*. Math. Nachr. (2016), 289: 2007–2018. [doi:10.1002/mana.201500230](doi:10.1002/mana.201500230)
 > - A.del Monaco, I.Hotta, and S.Schleißinger, *"Tightness Results for Infinite-Slit Limits of the Chordal Loewner Equation"*. S. Comput. Methods Funct. Theory (2018) 18: 9. [doi:10.1007/s40315-017-0205-3](doi:10.1007/s40315-017-0205-3)
 
-It is worth mentioning that the numerical methods for deterministic evolution are based on:
+It is worth mentioning that the numerical methods for evolution computations are based on:
 
 > - T.Kennedy, *"Numerical Computations for the Schramm-Loewner Evolution"*, J. Stat. Phys (2009) 137: 839. [doi:10.1007/s10955-009-9866-2](doi:10.1007/s10955-009-9866-2)
 
